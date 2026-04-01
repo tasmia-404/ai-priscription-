@@ -1,0 +1,5 @@
+{
+  "name": "Hospital Prescription System",
+  "description": "A comprehensive hospital-style prescription system with doctor authentication, patient management, medicine autocomplete, and PDF generation.",
+  "requestFramePermissions": ["microphone"]
+}

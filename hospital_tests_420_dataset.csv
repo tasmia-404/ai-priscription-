@@ -1,0 +1,422 @@
+Category	Test Name	
+Blood Tests	Complete Blood Count (CBC)	
+Blood Tests	Hemoglobin (Hb)	
+Blood Tests	Hematocrit	
+Blood Tests	Red Blood Cell Count	
+Blood Tests	White Blood Cell Count	
+Blood Tests	Platelet Count	
+Blood Tests	Blood Sugar (Fasting)	
+Blood Tests	Blood Sugar (Random)	
+Blood Tests	HbA1c	
+Blood Tests	Lipid Profile	
+Blood Tests	Total Cholesterol	
+Blood Tests	HDL Cholesterol	
+Blood Tests	LDL Cholesterol	
+Blood Tests	Triglycerides	
+Blood Tests	Liver Function Test (LFT)	
+Blood Tests	ALT (SGPT)	
+Blood Tests	AST (SGOT)	
+Blood Tests	Alkaline Phosphatase	
+Blood Tests	Bilirubin Total	
+Blood Tests	Bilirubin Direct	
+Blood Tests	Albumin	
+Blood Tests	Kidney Function Test (KFT)	
+Blood Tests	Blood Urea	
+Blood Tests	Serum Creatinine	
+Blood Tests	Uric Acid	
+Blood Tests	Electrolyte Panel	
+Blood Tests	Sodium	
+Blood Tests	Potassium	
+Blood Tests	Chloride	
+Blood Tests	Calcium	
+Blood Tests	Magnesium	
+Blood Tests	Phosphorus	
+Blood Tests	Ferritin	
+Blood Tests	Iron Profile	
+Blood Tests	CRP	
+Blood Tests	ESR	
+Blood Tests	D-Dimer	
+Blood Tests	Procalcitonin	
+Blood Tests	Troponin	
+Blood Tests	Vitamin D	
+Blood Tests	Vitamin B12	
+Blood Tests	Folate	
+Blood Tests	Homocysteine	
+Blood Tests	Cortisol	
+Blood Tests	Insulin	
+Blood Tests	C-Peptide	
+Thyroid Tests	Thyroid Profile	
+Thyroid Tests	TSH	
+Thyroid Tests	T3	
+Thyroid Tests	T4	
+Thyroid Tests	Free T3 (FT3)	
+Thyroid Tests	Free T4 (FT4)	
+Thyroid Tests	Reverse T3	
+Thyroid Tests	Anti-TPO Antibody	
+Thyroid Tests	Anti-Thyroglobulin Antibody	
+Thyroid Tests	Thyroglobulin	
+Thyroid Tests	TSH Receptor Antibody	
+Thyroid Tests	Thyroid Ultrasound	
+Thyroid Tests	Thyroid Scan	
+Urine Tests	Urine Routine	
+Urine Tests	Urine Microscopy	
+Urine Tests	Urine Culture	
+Urine Tests	Urine Protein	
+Urine Tests	Urine Glucose	
+Urine Tests	Urine Ketones	
+Urine Tests	Urine Pregnancy Test	
+Urine Tests	Urine Creatinine	
+Urine Tests	24 Hour Urine Protein	
+Urine Tests	Urine Albumin	
+Urine Tests	Urine Electrolytes	
+Infection Tests	Dengue NS1	
+Infection Tests	Dengue IgM	
+Infection Tests	Dengue IgG	
+Infection Tests	Malaria Parasite	
+Infection Tests	Rapid Malaria	
+Infection Tests	Typhoid Widal	
+Infection Tests	COVID-19 PCR	
+Infection Tests	COVID-19 Antigen	
+Infection Tests	HIV 1 & 2	
+Infection Tests	Hepatitis B	
+Infection Tests	Hepatitis C	
+Infection Tests	Tuberculosis PCR	
+Infection Tests	Blood Culture	
+Infection Tests	Stool Culture	
+Infection Tests	Sputum Culture	
+Infection Tests	Influenza Test	
+Infection Tests	Chikungunya Test	
+Imaging Tests	X-Ray Chest	
+Imaging Tests	X-Ray Abdomen	
+Imaging Tests	X-Ray Spine	
+Imaging Tests	X-Ray Knee	
+Imaging Tests	X-Ray Skull	
+Imaging Tests	X-Ray Hand	
+Imaging Tests	X-Ray Foot	
+Imaging Tests	Ultrasound Abdomen	
+Imaging Tests	Ultrasound Pelvis	
+Imaging Tests	Ultrasound Thyroid	
+Imaging Tests	Ultrasound Breast	
+Imaging Tests	Ultrasound Pregnancy	
+Imaging Tests	CT Scan Brain	
+Imaging Tests	CT Scan Chest	
+Imaging Tests	CT Scan Abdomen	
+Imaging Tests	CT Scan Spine	
+Imaging Tests	MRI Brain	
+Imaging Tests	MRI Spine	
+Imaging Tests	MRI Knee	
+Imaging Tests	MRI Shoulder	
+Imaging Tests	MRI Abdomen	
+Imaging Tests	Mammography	
+Imaging Tests	PET CT	
+Imaging Tests	Bone Scan	
+Imaging Tests	DEXA Scan	
+Heart Tests	ECG	
+Heart Tests	2D Echo	
+Heart Tests	TMT Stress Test	
+Heart Tests	Holter Monitoring	
+Heart Tests	Cardiac CT	
+Heart Tests	Cardiac MRI	
+Heart Tests	Troponin Test	
+Heart Tests	BNP Test	
+Heart Tests	NT-ProBNP	
+Heart Tests	Carotid Doppler	
+Heart Tests	Coronary Angiography	
+Lung Tests	Pulmonary Function Test	
+Lung Tests	Spirometry	
+Lung Tests	Chest CT	
+Lung Tests	Bronchoscopy	
+Lung Tests	Arterial Blood Gas	
+Lung Tests	Peak Flow Test	
+Neurology Tests	EEG	
+Neurology Tests	Nerve Conduction Study	
+Neurology Tests	Brain MRI	
+Neurology Tests	Brain CT	
+Neurology Tests	Lumbar Puncture	
+Neurology Tests	EMG Test	
+Neurology Tests	Evoked Potential	
+Pregnancy Tests	Pregnancy Test	
+Pregnancy Tests	Beta-hCG	
+Pregnancy Tests	Obstetric Ultrasound	
+Pregnancy Tests	NT Scan	
+Pregnancy Tests	Anomaly Scan	
+Pregnancy Tests	Growth Scan	
+Pregnancy Tests	Amniocentesis	
+Gastro Tests	Endoscopy	
+Gastro Tests	Colonoscopy	
+Gastro Tests	Stool Routine	
+Gastro Tests	Stool Occult Blood	
+Gastro Tests	H. Pylori Test	
+Gastro Tests	Liver Fibroscan	
+Cancer Marker Tests	PSA	
+Cancer Marker Tests	CA-125	
+Cancer Marker Tests	CA 19-9	
+Cancer Marker Tests	AFP	
+Cancer Marker Tests	CEA	
+Cancer Marker Tests	CA 15-3	
+Cancer Marker Tests	Beta-2 Microglobulin	
+Cancer Marker Tests	LDH	
+Blood Tests	Complete Blood Count (CBC) Panel 1	
+Blood Tests	Hemoglobin (Hb) Panel 1	
+Blood Tests	Hematocrit Panel 1	
+Blood Tests	Red Blood Cell Count Panel 1	
+Blood Tests	White Blood Cell Count Panel 1	
+Blood Tests	Platelet Count Panel 1	
+Blood Tests	Blood Sugar (Fasting) Panel 1	
+Blood Tests	Blood Sugar (Random) Panel 1	
+Blood Tests	HbA1c Panel 1	
+Blood Tests	Lipid Profile Panel 1	
+Blood Tests	Total Cholesterol Panel 1	
+Blood Tests	HDL Cholesterol Panel 1	
+Blood Tests	LDL Cholesterol Panel 1	
+Blood Tests	Triglycerides Panel 1	
+Blood Tests	Liver Function Test (LFT) Panel 1	
+Blood Tests	ALT (SGPT) Panel 1	
+Blood Tests	AST (SGOT) Panel 1	
+Blood Tests	Alkaline Phosphatase Panel 1	
+Blood Tests	Bilirubin Total Panel 1	
+Blood Tests	Bilirubin Direct Panel 1	
+Blood Tests	Albumin Panel 1	
+Blood Tests	Kidney Function Test (KFT) Panel 1	
+Blood Tests	Blood Urea Panel 1	
+Blood Tests	Serum Creatinine Panel 1	
+Blood Tests	Uric Acid Panel 1	
+Blood Tests	Electrolyte Panel Panel 1	
+Blood Tests	Sodium Panel 1	
+Blood Tests	Potassium Panel 1	
+Blood Tests	Chloride Panel 1	
+Blood Tests	Calcium Panel 1	
+Blood Tests	Magnesium Panel 1	
+Blood Tests	Phosphorus Panel 1	
+Blood Tests	Ferritin Panel 1	
+Blood Tests	Iron Profile Panel 1	
+Blood Tests	CRP Panel 1	
+Blood Tests	ESR Panel 1	
+Blood Tests	D-Dimer Panel 1	
+Blood Tests	Procalcitonin Panel 1	
+Blood Tests	Troponin Panel 1	
+Blood Tests	Vitamin D Panel 1	
+Blood Tests	Vitamin B12 Panel 1	
+Blood Tests	Folate Panel 1	
+Blood Tests	Homocysteine Panel 1	
+Blood Tests	Cortisol Panel 1	
+Blood Tests	Insulin Panel 1	
+Blood Tests	C-Peptide Panel 1	
+Thyroid Tests	Thyroid Profile Panel 1	
+Thyroid Tests	TSH Panel 1	
+Thyroid Tests	T3 Panel 1	
+Thyroid Tests	T4 Panel 1	
+Thyroid Tests	Free T3 (FT3) Panel 1	
+Thyroid Tests	Free T4 (FT4) Panel 1	
+Thyroid Tests	Reverse T3 Panel 1	
+Thyroid Tests	Anti-TPO Antibody Panel 1	
+Thyroid Tests	Anti-Thyroglobulin Antibody Panel 1	
+Thyroid Tests	Thyroglobulin Panel 1	
+Thyroid Tests	TSH Receptor Antibody Panel 1	
+Thyroid Tests	Thyroid Ultrasound Panel 1	
+Thyroid Tests	Thyroid Scan Panel 1	
+Urine Tests	Urine Routine Panel 1	
+Urine Tests	Urine Microscopy Panel 1	
+Urine Tests	Urine Culture Panel 1	
+Urine Tests	Urine Protein Panel 1	
+Urine Tests	Urine Glucose Panel 1	
+Urine Tests	Urine Ketones Panel 1	
+Urine Tests	Urine Pregnancy Test Panel 1	
+Urine Tests	Urine Creatinine Panel 1	
+Urine Tests	24 Hour Urine Protein Panel 1	
+Urine Tests	Urine Albumin Panel 1	
+Urine Tests	Urine Electrolytes Panel 1	
+Infection Tests	Dengue NS1 Panel 1	
+Infection Tests	Dengue IgM Panel 1	
+Infection Tests	Dengue IgG Panel 1	
+Infection Tests	Malaria Parasite Panel 1	
+Infection Tests	Rapid Malaria Panel 1	
+Infection Tests	Typhoid Widal Panel 1	
+Infection Tests	COVID-19 PCR Panel 1	
+Infection Tests	COVID-19 Antigen Panel 1	
+Infection Tests	HIV 1 & 2 Panel 1	
+Infection Tests	Hepatitis B Panel 1	
+Infection Tests	Hepatitis C Panel 1	
+Infection Tests	Tuberculosis PCR Panel 1	
+Infection Tests	Blood Culture Panel 1	
+Infection Tests	Stool Culture Panel 1	
+Infection Tests	Sputum Culture Panel 1	
+Infection Tests	Influenza Test Panel 1	
+Infection Tests	Chikungunya Test Panel 1	
+Imaging Tests	X-Ray Chest Panel 1	
+Imaging Tests	X-Ray Abdomen Panel 1	
+Imaging Tests	X-Ray Spine Panel 1	
+Imaging Tests	X-Ray Knee Panel 1	
+Imaging Tests	X-Ray Skull Panel 1	
+Imaging Tests	X-Ray Hand Panel 1	
+Imaging Tests	X-Ray Foot Panel 1	
+Imaging Tests	Ultrasound Abdomen Panel 1	
+Imaging Tests	Ultrasound Pelvis Panel 1	
+Imaging Tests	Ultrasound Thyroid Panel 1	
+Imaging Tests	Ultrasound Breast Panel 1	
+Imaging Tests	Ultrasound Pregnancy Panel 1	
+Imaging Tests	CT Scan Brain Panel 1	
+Imaging Tests	CT Scan Chest Panel 1	
+Imaging Tests	CT Scan Abdomen Panel 1	
+Imaging Tests	CT Scan Spine Panel 1	
+Imaging Tests	MRI Brain Panel 1	
+Imaging Tests	MRI Spine Panel 1	
+Imaging Tests	MRI Knee Panel 1	
+Imaging Tests	MRI Shoulder Panel 1	
+Imaging Tests	MRI Abdomen Panel 1	
+Imaging Tests	Mammography Panel 1	
+Imaging Tests	PET CT Panel 1	
+Imaging Tests	Bone Scan Panel 1	
+Imaging Tests	DEXA Scan Panel 1	
+Heart Tests	ECG Panel 1	
+Heart Tests	2D Echo Panel 1	
+Heart Tests	TMT Stress Test Panel 1	
+Heart Tests	Holter Monitoring Panel 1	
+Heart Tests	Cardiac CT Panel 1	
+Heart Tests	Cardiac MRI Panel 1	
+Heart Tests	Troponin Test Panel 1	
+Heart Tests	BNP Test Panel 1	
+Heart Tests	NT-ProBNP Panel 1	
+Heart Tests	Carotid Doppler Panel 1	
+Heart Tests	Coronary Angiography Panel 1	
+Lung Tests	Pulmonary Function Test Panel 1	
+Lung Tests	Spirometry Panel 1	
+Lung Tests	Chest CT Panel 1	
+Lung Tests	Bronchoscopy Panel 1	
+Lung Tests	Arterial Blood Gas Panel 1	
+Lung Tests	Peak Flow Test Panel 1	
+Neurology Tests	EEG Panel 1	
+Neurology Tests	Nerve Conduction Study Panel 1	
+Neurology Tests	Brain MRI Panel 1	
+Neurology Tests	Brain CT Panel 1	
+Neurology Tests	Lumbar Puncture Panel 1	
+Neurology Tests	EMG Test Panel 1	
+Neurology Tests	Evoked Potential Panel 1	
+Pregnancy Tests	Pregnancy Test Panel 1	
+Pregnancy Tests	Beta-hCG Panel 1	
+Pregnancy Tests	Obstetric Ultrasound Panel 1	
+Pregnancy Tests	NT Scan Panel 1	
+Pregnancy Tests	Anomaly Scan Panel 1	
+Pregnancy Tests	Growth Scan Panel 1	
+Pregnancy Tests	Amniocentesis Panel 1	
+Gastro Tests	Endoscopy Panel 1	
+Gastro Tests	Colonoscopy Panel 1	
+Gastro Tests	Stool Routine Panel 1	
+Gastro Tests	Stool Occult Blood Panel 1	
+Gastro Tests	H. Pylori Test Panel 1	
+Gastro Tests	Liver Fibroscan Panel 1	
+Cancer Marker Tests	PSA Panel 1	
+Cancer Marker Tests	CA-125 Panel 1	
+Cancer Marker Tests	CA 19-9 Panel 1	
+Cancer Marker Tests	AFP Panel 1	
+Cancer Marker Tests	CEA Panel 1	
+Cancer Marker Tests	CA 15-3 Panel 1	
+Cancer Marker Tests	Beta-2 Microglobulin Panel 1	
+Cancer Marker Tests	LDH Panel 1	
+Blood Tests	Complete Blood Count (CBC) Panel 2	
+Blood Tests	Hemoglobin (Hb) Panel 2	
+Blood Tests	Hematocrit Panel 2	
+Blood Tests	Red Blood Cell Count Panel 2	
+Blood Tests	White Blood Cell Count Panel 2	
+Blood Tests	Platelet Count Panel 2	
+Blood Tests	Blood Sugar (Fasting) Panel 2	
+Blood Tests	Blood Sugar (Random) Panel 2	
+Blood Tests	HbA1c Panel 2	
+Blood Tests	Lipid Profile Panel 2	
+Blood Tests	Total Cholesterol Panel 2	
+Blood Tests	HDL Cholesterol Panel 2	
+Blood Tests	LDL Cholesterol Panel 2	
+Blood Tests	Triglycerides Panel 2	
+Blood Tests	Liver Function Test (LFT) Panel 2	
+Blood Tests	ALT (SGPT) Panel 2	
+Blood Tests	AST (SGOT) Panel 2	
+Blood Tests	Alkaline Phosphatase Panel 2	
+Blood Tests	Bilirubin Total Panel 2	
+Blood Tests	Bilirubin Direct Panel 2	
+Blood Tests	Albumin Panel 2	
+Blood Tests	Kidney Function Test (KFT) Panel 2	
+Blood Tests	Blood Urea Panel 2	
+Blood Tests	Serum Creatinine Panel 2	
+Blood Tests	Uric Acid Panel 2	
+Blood Tests	Electrolyte Panel Panel 2	
+Blood Tests	Sodium Panel 2	
+Blood Tests	Potassium Panel 2	
+Blood Tests	Chloride Panel 2	
+Blood Tests	Calcium Panel 2	
+Blood Tests	Magnesium Panel 2	
+Blood Tests	Phosphorus Panel 2	
+Blood Tests	Ferritin Panel 2	
+Blood Tests	Iron Profile Panel 2	
+Blood Tests	CRP Panel 2	
+Blood Tests	ESR Panel 2	
+Blood Tests	D-Dimer Panel 2	
+Blood Tests	Procalcitonin Panel 2	
+Blood Tests	Troponin Panel 2	
+Blood Tests	Vitamin D Panel 2	
+Blood Tests	Vitamin B12 Panel 2	
+Blood Tests	Folate Panel 2	
+Blood Tests	Homocysteine Panel 2	
+Blood Tests	Cortisol Panel 2	
+Blood Tests	Insulin Panel 2	
+Blood Tests	C-Peptide Panel 2	
+Thyroid Tests	Thyroid Profile Panel 2	
+Thyroid Tests	TSH Panel 2	
+Thyroid Tests	T3 Panel 2	
+Thyroid Tests	T4 Panel 2	
+Thyroid Tests	Free T3 (FT3) Panel 2	
+Thyroid Tests	Free T4 (FT4) Panel 2	
+Thyroid Tests	Reverse T3 Panel 2	
+Thyroid Tests	Anti-TPO Antibody Panel 2	
+Thyroid Tests	Anti-Thyroglobulin Antibody Panel 2	
+Thyroid Tests	Thyroglobulin Panel 2	
+Thyroid Tests	TSH Receptor Antibody Panel 2	
+Thyroid Tests	Thyroid Ultrasound Panel 2	
+Thyroid Tests	Thyroid Scan Panel 2	
+Urine Tests	Urine Routine Panel 2	
+Urine Tests	Urine Microscopy Panel 2	
+Urine Tests	Urine Culture Panel 2	
+Urine Tests	Urine Protein Panel 2	
+Urine Tests	Urine Glucose Panel 2	
+Urine Tests	Urine Ketones Panel 2	
+Urine Tests	Urine Pregnancy Test Panel 2	
+Urine Tests	Urine Creatinine Panel 2	
+Urine Tests	24 Hour Urine Protein Panel 2	
+Urine Tests	Urine Albumin Panel 2	
+Urine Tests	Urine Electrolytes Panel 2	
+Infection Tests	Dengue NS1 Panel 2	
+Infection Tests	Dengue IgM Panel 2	
+Infection Tests	Dengue IgG Panel 2	
+Infection Tests	Malaria Parasite Panel 2	
+Infection Tests	Rapid Malaria Panel 2	
+Infection Tests	Typhoid Widal Panel 2	
+Infection Tests	COVID-19 PCR Panel 2	
+Infection Tests	COVID-19 Antigen Panel 2	
+Infection Tests	HIV 1 & 2 Panel 2	
+Infection Tests	Hepatitis B Panel 2	
+Infection Tests	Hepatitis C Panel 2	
+Infection Tests	Tuberculosis PCR Panel 2	
+Infection Tests	Blood Culture Panel 2	
+Infection Tests	Stool Culture Panel 2	
+Infection Tests	Sputum Culture Panel 2	
+Infection Tests	Influenza Test Panel 2	
+Infection Tests	Chikungunya Test Panel 2	
+Imaging Tests	X-Ray Chest Panel 2	
+Imaging Tests	X-Ray Abdomen Panel 2	
+Imaging Tests	X-Ray Spine Panel 2	
+Imaging Tests	X-Ray Knee Panel 2	
+Imaging Tests	X-Ray Skull Panel 2	
+Imaging Tests	X-Ray Hand Panel 2	
+Imaging Tests	X-Ray Foot Panel 2	
+Imaging Tests	Ultrasound Abdomen Panel 2	
+Imaging Tests	Ultrasound Pelvis Panel 2	
+Imaging Tests	Ultrasound Thyroid Panel 2	
+Imaging Tests	Ultrasound Breast Panel 2	
+Imaging Tests	Ultrasound Pregnancy Panel 2	
+Imaging Tests	CT Scan Brain Panel 2	
+Imaging Tests	CT Scan Chest Panel 2	
+Imaging Tests	CT Scan Abdomen Panel 2	
+Imaging Tests	CT Scan Spine Panel 2	
+Imaging Tests	MRI Brain Panel 2	
+Imaging Tests	MRI Spine Panel 2	
+Imaging Tests	MRI Knee Panel 2	0
+
