@@ -456,10 +456,12 @@ const Register = () => {
       body: JSON.stringify(formData),
     });
     if (res.ok) {
+      const data = await res.json();
       alert('Registration successful! Please login.');
       navigate('/login');
     } else {
-      alert('Registration failed');
+      const err = await res.json().catch(() => ({ error: 'Unknown error' }));
+      alert(`Registration failed: ${err.error || 'Server error'}`);
     }
   };
 
